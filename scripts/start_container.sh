@@ -7,3 +7,5 @@ docker pull sudhirsharma/simple-python-flask-app
 
 # Run the Docker image as a container
 docker run -d -p 8080:5000 sudhirsharma/simple-python-flask-app
+
+
